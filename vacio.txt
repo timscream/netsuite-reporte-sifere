@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-este es el master
-=======
-estoy en cabecera
->>>>>>> cabecera
+prueba 2
