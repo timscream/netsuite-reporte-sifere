@@ -1,1 +1,1 @@
-prueba master para conflicto
+prueba cabecera para conflicto
